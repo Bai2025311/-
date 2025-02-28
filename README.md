@@ -73,7 +73,7 @@ If you're interested in this project and want to contribute, you're welcome to:
 
 ## 版权信息 / Copyright
 
-所有内容及NFT作品均由创始团队创作，版权归[你的名字或团队名]所有。未经授权，不得转载、复制或用于商业用途。  
+所有内容及NFT作品均由创始团队创作，版权归[SHUNYU BAI]所有。未经授权，不得转载、复制或用于商业用途。  
 All content and NFT artworks are created by the founding team, and the copyright belongs to [Your Name or Team]. Unauthorized reproduction, copying, or commercial use is prohibited.
 
 ---
